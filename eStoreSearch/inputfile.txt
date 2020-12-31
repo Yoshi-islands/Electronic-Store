@@ -1,0 +1,15 @@
+book//000025//Absolute Java//199.95//2015//Walter Savitch, Kenrich Mock//Pearson
+electronic//000107//Macbook Air 11,Intel Dual-core i5 1.6Ghz//1099.99//2013//Apple Inc.
+book//000001//This is a test object written in python//100.25//1990//Maaz Syed//Guelph
+book//000002//This is a test object written in perl//100.25//1991//Maaz Syed//Guelph
+book//000003//This is a test object written in java//100.25//1992//Maaz Syed//Guelph
+book//000004//This is a test object written in c//100.25//1993//Maaz Syed//Guelph
+book//000005//This is a test object written in functional//100.25//1994//Maaz Syed//Guelph
+book//000006//This is a test object written in procedural//100.25//1995//Maaz Syed//Guelph
+electronic//000007//Apple ipad//100.25//2020//Apple Inc.
+electronic//000008//iphone//100.25//2026//Apple Inc.
+electronic//000009//lenovo yoga//100.25//2030//IBM
+electronic//000010//lenovo A series.//100.25//2025//Lenovo
+book//000011//Series of unfortunate events//100.25//2021//Maaz Syed//Guelph
+book//000022//this is a test object for the file//100.25//2020//Maaz Syed//Guelph
+book//000034//This is another test object for exception//100.24//2020//Maaz Syed//Guelph
